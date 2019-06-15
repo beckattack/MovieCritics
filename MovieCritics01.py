@@ -11,5 +11,3 @@ import matplotlib.pyplot as plt
 from plot_confusion_matrix import *
 
 
-#test
-#test
