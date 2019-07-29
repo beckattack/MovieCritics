@@ -140,7 +140,7 @@ for mode in modes:
     # summarize results
     print(results.describe())
     # plot results
-    results.boxplot()
     if mode == 'freq':
+        results.boxplot()
         pyplot.show()
 
